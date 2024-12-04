@@ -11,6 +11,5 @@
 - **MongoDB**: O MongoDB precisa estar rodando na máquina ou em um servidor acessível, configurado em `localhost:27017`.
 
  ## Passos para a instalação
-
--download requirements.txt
+*download requirements.txt
    
