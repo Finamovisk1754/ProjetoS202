@@ -6,4 +6,8 @@
 
 *  O objetivo desse código é criar um sistema de gerenciamento de uma biblioteca que utiliza o MongoDB para armazenar informações sobre livros e usuários.
 
+ ### 2. Instalação 
+ **Python 3.7+**: O código é desenvolvido em Python, certifique-se de ter a versão 3.7 ou superior instalada.
+- **MongoDB**: O MongoDB precisa estar rodando na máquina ou em um servidor acessível, configurado em `localhost:27017`.
+
 
