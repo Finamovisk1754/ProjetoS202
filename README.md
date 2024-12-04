@@ -10,4 +10,7 @@
 - **Python 3.7+**: O código é desenvolvido em Python, certifique-se de ter a versão 3.7 ou superior instalada.
 - **MongoDB**: O MongoDB precisa estar rodando na máquina ou em um servidor acessível, configurado em `localhost:27017`.
 
+ ## Passos para a instalação
 
+-download requirements.txt
+   
