@@ -13,7 +13,6 @@
  ## Passos para a instalação
 * download requirements.txt
 
-
  ### 3. Uso e Funcionalidades
 
  * Para iniciar o sistema, execute o arquivo principal main.py
@@ -26,4 +25,4 @@
 
 ### 4. Conclusão
 
-- *O código u é um sistema básico de gerenciamento de biblioteca, implementado em Python e utilizando MongoDB para armazenar dados de livros e usuários. Ele permite realizar operações CRUD (Create, Read, Update, Delete), oferecendo funcionalidades essenciais para o gerenciamento de uma biblioteca, como cadastrar novos livros e usuários, atualizar informações, listar o acervo, e remover itens quando necessário.*
+- O código u é um sistema básico de gerenciamento de biblioteca, implementado em Python e utilizando MongoDB para armazenar dados de livros e usuários. Ele permite realizar operações CRUD (Create, Read, Update, Delete), oferecendo funcionalidades essenciais para o gerenciamento de uma biblioteca, como cadastrar novos livros e usuários, atualizar informações, listar o acervo, e remover itens quando necessário.
