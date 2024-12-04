@@ -27,6 +27,6 @@
  ### 4. Diagrama de classes
 ![dig](https://github.com/user-attachments/assets/04afbac6-9d20-4df3-b5c9-4185129785d2)
 
-### 4. Conclusão
+### 5. Conclusão
 
 - O código é um sistema básico de gerenciamento de biblioteca, implementado em Python e utilizando MongoDB para armazenar dados de livros e usuários. Ele permite realizar operações CRUD (Create, Read, Update, Delete), oferecendo funcionalidades essenciais para o gerenciamento de uma biblioteca, como cadastrar novos livros e usuários, atualizar informações, listar o acervo, e remover itens quando necessário.
